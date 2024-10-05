@@ -185,6 +185,11 @@ h2 {
 
 /* Projects */
 
+.projects img {
+  height: 50px;
+  width: 50px;
+}
+
 .projects-container {
   margin-top: 30px;
   margin-left: 60px;
