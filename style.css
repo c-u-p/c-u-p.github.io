@@ -26,6 +26,14 @@ a:hover {
   color: #6ac4f8;
 }
 
+.proj-link {
+  color: gray;
+}
+
+.proj-link:hover {
+  color: #6ac4f8;
+}
+
 .topmenu {
   color: lightgray;
   margin: 10px;
